@@ -1,0 +1,22 @@
+﻿  MyForm.cpp
+D:\Universe\Sem2\OOP\Labs\Lab_11\data\oop_lab11\MyForm.h(2,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Universe\Sem2\OOP\Labs\Lab_11\data\oop_lab11\MyForm.h(428,24): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+D:\Universe\Sem2\OOP\Labs\Lab_11\data\oop_lab11\MyForm.h(429,24): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+D:\Universe\Sem2\OOP\Labs\Lab_11\data\oop_lab11\MyForm.h(472,9): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+D:\Universe\Sem2\OOP\Labs\Lab_11\data\oop_lab11\MyForm.h(473,9): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+D:\Universe\Sem2\OOP\Labs\Lab_11\data\oop_lab11\MyForm.h(484,9): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+D:\Universe\Sem2\OOP\Labs\Lab_11\data\oop_lab11\MyForm.h(485,9): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+D:\Universe\Sem2\OOP\Labs\Lab_11\data\oop_lab11\MyForm.h(491,10): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+D:\Universe\Sem2\OOP\Labs\Lab_11\data\oop_lab11\MyForm.h(509,16): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Universe\Sem2\OOP\Labs\Lab_11\data\oop_lab11\MyForm.h(511,3): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Universe\Sem2\OOP\Labs\Lab_11\data\oop_lab11\MyForm.h(513,3): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Universe\Sem2\OOP\Labs\Lab_11\data\oop_lab11\MyForm.h(518,16): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Universe\Sem2\OOP\Labs\Lab_11\data\oop_lab11\MyForm.h(529,24): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+D:\Universe\Sem2\OOP\Labs\Lab_11\data\oop_lab11\MyForm.h(530,24): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+D:\Universe\Sem2\OOP\Labs\Lab_11\data\oop_lab11\MyForm.h(569,9): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+D:\Universe\Sem2\OOP\Labs\Lab_11\data\oop_lab11\MyForm.h(570,9): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+D:\Universe\Sem2\OOP\Labs\Lab_11\data\oop_lab11\MyForm.h(582,9): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+D:\Universe\Sem2\OOP\Labs\Lab_11\data\oop_lab11\MyForm.h(583,9): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+D:\Universe\Sem2\OOP\Labs\Lab_11\data\oop_lab11\MyForm.h(589,10): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  oop_lab11.vcxproj -> D:\Universe\Sem2\OOP\Labs\Lab_11\data\oop_lab11\x64\Debug\oop_lab11.exe

@@ -1,0 +1,10 @@
+E:\Visual Studio\oop_lab11\x64\Debug\oop_lab11.vcxproj.AssemblyReference.cache
+E:\Visual Studio\oop_lab11\x64\Debug\oop_lab11.vcxproj.SuggestedBindingRedirects.cache
+E:\Visual Studio\oop_lab11\x64\Debug\ooplab11.MyForm.resources
+E:\Visual Studio\oop_lab11\x64\Debug\oop_lab11.vcxproj.GenerateResource.cache
+E:\Visual Studio\oop_lab11\x64\Debug\oop_lab11.exe
+D:\Universe\Sem2\OOP\Labs\Lab_11\data\oop_lab11\x64\Debug\oop_lab11.vcxproj.AssemblyReference.cache
+D:\Universe\Sem2\OOP\Labs\Lab_11\data\oop_lab11\x64\Debug\oop_lab11.vcxproj.SuggestedBindingRedirects.cache
+D:\Universe\Sem2\OOP\Labs\Lab_11\data\oop_lab11\x64\Debug\ooplab11.MyForm.resources
+D:\Universe\Sem2\OOP\Labs\Lab_11\data\oop_lab11\x64\Debug\oop_lab11.vcxproj.GenerateResource.cache
+D:\Universe\Sem2\OOP\Labs\Lab_11\data\oop_lab11\x64\Debug\oop_lab11.exe
